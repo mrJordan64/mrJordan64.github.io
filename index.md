@@ -1,8 +1,10 @@
 ## Welcome to GitHub Pages!!!
 
-You can use the [editor on GitHub](https://github.com/mrJordan64/mrJordan64.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+You can use the [editor on GitHub](https://github.com/mrJordan64/mrJordan64.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+![random image](https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_1280.png)
 
 ### Markdown
 
