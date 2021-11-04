@@ -1,0 +1,12 @@
+# Site navigation links
+- title: Home
+  url: /
+
+- title: Stuff
+  url: /stuff/
+
+- title: CV
+  url: /cv/
+
+- title: Blog
+  url: /blog/
