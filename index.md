@@ -1,5 +1,9 @@
 ## Welcome to GitHub Pages!!!
 
+[how to do some stuff 1](https://hackmd.io/ULKtdLi3S1qZo8xxLd8HKw?both)
+
+[how to do some stuff 2](https://biodata-club.github.io/githubPagesTutorial/#rename-the-repo)
+
 You can use the [editor on GitHub](https://github.com/mrJordan64/mrJordan64.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
@@ -7,8 +11,11 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ![uploaded image](images/Peterson_color.png)
 ![random image](https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_1280.png)
 add image using html
+
 <img src="https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_1280.png"
 height="30">
+
+test emoji :smile:
 
 ### Markdown
 
