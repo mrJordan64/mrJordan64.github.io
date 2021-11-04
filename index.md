@@ -4,6 +4,8 @@
 
 [how to do some stuff 2](https://biodata-club.github.io/githubPagesTutorial/#rename-the-repo)
 
+https://laderast.github.io/magic-of-markdown/#(10)
+
 You can use the [editor on GitHub](https://github.com/mrJordan64/mrJordan64.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
